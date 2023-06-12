@@ -3,5 +3,5 @@ A project for the course CSE-4622 (Machine Learning Lab) named "Novel Searcher" 
 
 ## Authors
 Mohammed Sami Khan\\
-Prottoy Rosul Rafi\\
+Protyoy Rafi\\
 Khaja Abdus Sami
