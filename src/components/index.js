@@ -1,12 +1,12 @@
 import { BookCanvas, StarsCanvas } from './canvas';
-import Hero from './Hero';
 import Navbar from './Navbar';
 import Background from './Background';
+import SearchResults from './SearchResults';
 
 export {
-  Hero,
   Navbar,
   Background,
+  SearchResults,
   BookCanvas, 
   StarsCanvas
 }
