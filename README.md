@@ -18,3 +18,7 @@ Khaja Abdus Sami
 
 To run the server:
 ```npm run dev```
+
+## Preview
+
+[Novel Searcher Demonstration](https://drive.google.com/file/d/1Ditge7-jp0UdC7SK-U3ShreB370noifP/view?usp=sharing)
